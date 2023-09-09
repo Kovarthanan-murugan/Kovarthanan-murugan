@@ -1,4 +1,4 @@
-Hi  My name is Kovarthanan Murugan
+Hi  ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif)) My name is Kovarthanan Murugan
 ====================================
 
 Full Stack Developer | Cloud Developer | IOT
@@ -18,4 +18,3 @@ I am a skilled and dynamic professional with a strong background in programming 
 ### Connect with me
 
 <p align="left"> <a href="https://www.github.com/Kovarthanan-murugan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg](https://giphy.com/embed/XE90Rm9DzCVfHb7zTe)" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kovarthanan-murugan-8530511b2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-<div style="width:100%;height:0;padding-bottom:141%;position:relative;"><iframe src="https://giphy.com/embed/XE90Rm9DzCVfHb7zTe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
