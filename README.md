@@ -1,5 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
-
+<p>kova</p>
 
 
 Hi My name is Kovarthanan Murugan
