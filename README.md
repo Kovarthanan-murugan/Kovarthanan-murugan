@@ -5,7 +5,7 @@ Full Stack Developer | Cloud Developer | IOT
 
 I am a skilled and dynamic professional with a strong background in programming and web development. My expertise spans a wide range of technologies, including Java, JavaScript, Python, TypeScript, and NodeJS, as well as popular web development frameworks like Angular, ReactJS, and Bootstrap. With a solid foundation in both backend and frontend development, I have a proven track record of delivering innovative solutions in agile project environments. My experience includes working on complex projects for Boston Harbor Consulting, where I played a key role in optimizing development timelines and enhancing application accessibility. I am also well-versed in cloud technologies, databases, and industry best practices. I hold a Bachelor's degree in Engineering and am pursuing a Master's degree in Applied Computer Science, reflecting my commitment to continuous learning and professional growth. I am passionate about solving challenging problems, following SOLID principles, and driving projects to success through efficient development practices and strong teamwork.
 
-* 🖥️  [Portfolio](http://kovarthanan-murugan.github.io/portfolio/about.html)
+* 🖥️  My [Portfolio](http://kovarthanan-murugan.github.io/portfolio/about.html)
 * 🚀  I'm currently working on [GetYourBakes](http://getyourbakesfrontend-irzzq65cdq-uc.a.run.app/)
 
 ### Skills
