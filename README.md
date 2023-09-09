@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://rishavchanda.io)
+[![MasterHead]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F38ac0d9c-5d39-45db-9935-153527b9f353%2Ftech.jpg?table=block&id=c12b70fb-6c46-483d-8c8d-cb538cd912f8
+))](https://rishavchanda.io)
 Hi My name is Kovarthanan Murugan
 ====================================
-
 Full Stack Developer | Cloud Developer | IOT
 --------------------------------------------
 
